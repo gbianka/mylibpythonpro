@@ -3,6 +3,8 @@
 Módulo para exemplificar construção de projetos Python no curso PyTools
 
 [![Build Status](https://travis-ci.com/gbianka/mylibpythonpro.svg?branch=main)](https://travis-ci.com/gbianka/mylibpythonpro)
+[![Updates](https://pyup.io/repos/github/gbianka/mylibpythonpro/shield.svg)](https://pyup.io/repos/github/gbianka/mylibpythonpro/)
+[![Python 3](https://pyup.io/repos/github/gbianka/mylibpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/gbianka/mylibpythonpro/)
 
 Suportada versão 3 de Python
 
