@@ -2,6 +2,8 @@
 
 Módulo para exemplificar construção de projetos Python no curso PyTools
 
+[![Build Status](https://travis-ci.com/gbianka/mylibpythonpro.svg?branch=main)](https://travis-ci.com/gbianka/mylibpythonpro)
+
 Suportada versão 3 de Python
 
 Para instalar (windows):
