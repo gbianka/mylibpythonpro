@@ -4,4 +4,32 @@ mccabe==0.6.1
 pycodestyle==2.6.0
 pyflakes==2.2.0
 zipp==3.3.0
+
+# Deps twine
+bleach==3.2.1
+colorama==0.4.3
+docutils==0.16
+keyring==21.4.0
+pkginfo==1.5.0.1
+Pygments==2.7.1
+pyparsing==2.4.7
+pywin32-ctypes==0.2.0
+readme-renderer==26.0
+requests-toolbelt==0.9.1
+rfc3986==1.4.0
+tqdm==4.50.0
+webencodings==0.5.1
+twine==3.2.0
+
+# Dependencias do PyTest
+atomicwrites==1.4.0
+attrs==20.2.0
+iniconfig==1.0.1
+packaging==20.4
+pluggy==0.13.1
+py==1.9.0
+six==1.15.0
+toml==0.10.1
+pytest==6.1.1
+
 -r requirements.txt
