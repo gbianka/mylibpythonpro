@@ -7,7 +7,7 @@ zipp==3.3.0
 
 # Deps twine
 bleach==3.2.1
-colorama==0.4.3
+colorama==0.4.4
 docutils==0.16
 keyring==21.4.0
 pkginfo==1.5.0.1
