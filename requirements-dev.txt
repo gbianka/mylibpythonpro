@@ -6,7 +6,7 @@ pyflakes==2.2.0
 zipp==3.3.1
 
 # Deps twine
-bleach==3.2.1
+bleach==4.1.0
 colorama==0.4.4
 docutils==0.16
 keyring==21.4.0
