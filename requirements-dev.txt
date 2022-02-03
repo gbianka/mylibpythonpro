@@ -19,7 +19,7 @@ requests-toolbelt==0.9.1
 rfc3986==1.4.0
 tqdm==4.50.2
 webencodings==0.5.1
-twine==3.2.0
+twine==3.8.0
 
 # Dependencias do PyTest
 atomicwrites==1.4.0
