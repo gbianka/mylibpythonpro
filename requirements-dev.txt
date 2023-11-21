@@ -11,7 +11,7 @@ colorama==0.4.4
 docutils==0.16
 keyring==21.4.0
 pkginfo==1.5.0.1
-Pygments==2.7.1
+Pygments==2.17.2
 pyparsing==2.4.7
 pywin32-ctypes==0.2.0
 readme-renderer==27.0
