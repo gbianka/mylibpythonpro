@@ -23,7 +23,7 @@ twine==3.2.0
 
 # Dependencias do PyTest
 atomicwrites==1.4.0
-attrs==20.2.0
+attrs==24.1.0
 iniconfig==1.1.1
 packaging==20.4
 pluggy==0.13.1
