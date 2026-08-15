@@ -18,7 +18,7 @@ readme-renderer==27.0
 requests-toolbelt==0.9.1
 rfc3986==1.4.0
 tqdm==4.50.2
-webencodings==0.5.1
+webencodings==0.6.1
 twine==3.2.0
 
 # Dependencias do PyTest
